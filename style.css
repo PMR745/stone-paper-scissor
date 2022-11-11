@@ -117,9 +117,9 @@ button:hover {
 
 @media screen and (max-width: 309px) {  
     nav {
-        font-size: 18px;
+        font-size: 14px;
         padding-left: 3px;
-        height: 45px;
+        height: 40px;
     }
     .user {
         font-size: 15px;
@@ -133,7 +133,7 @@ button:hover {
     button {
         height: 30px;
         width: 70px;
-        font-size: 12px;
+        font-size: 10px;
         margin: 3px
     }
     .usersc {
